@@ -5,14 +5,13 @@
 @import 'config/variables';
 @import 'config/reboot';
 @import 'config/sass-mq';
-@import 'config/mixins';
 
 // utilities
 @import 'utilities/gap';
 
 // component
-@import 'component/input';
-@import 'component/modal';
+@import 'component/form';
 @import 'component/loading';
+@import 'component/modal';
 
 
