@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="8" viewBox="0 0 8 8">
+  <defs>
+    <clipPath id="clip-bubble-3">
+      <rect width="8" height="8"/>
+    </clipPath>
+  </defs>
+  <g id="bubble-3" clip-path="url(#clip-bubble-3)">
+    <path id="Path_1161" data-name="Path 1161" d="M1973.128,123.885a4,4,0,1,1,4-4A4,4,0,0,1,1973.128,123.885Zm0-7.391a3.391,3.391,0,1,0,3.392,3.392A3.395,3.395,0,0,0,1973.128,116.494Z" transform="translate(-1969.128 -115.885)" fill="#fff"/>
+  </g>
+</svg>

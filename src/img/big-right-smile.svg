@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.45" height="17.45" viewBox="0 0 17.45 17.45">
+  <defs>
+    <clipPath id="clip-big-right-smile">
+      <rect width="17.45" height="17.45"/>
+    </clipPath>
+  </defs>
+  <g id="big-right-smile" clip-path="url(#clip-big-right-smile)">
+    <g id="Group_2957" data-name="Group 2957" transform="translate(-1508.582 -218.984)">
+      <g id="Group_2955" data-name="Group 2955">
+        <path id="Path_975" data-name="Path 975" d="M1519.086,227.779a2.258,2.258,0,0,0-3.773,0,2.1,2.1,0,0,1-2.174-2.022h.576a1.606,1.606,0,0,0,3.2,0h.576a1.606,1.606,0,0,0,3.2,0h.576A2.1,2.1,0,0,1,1519.086,227.779Z" fill="#fff"/>
+      </g>
+      <g id="Group_2956" data-name="Group 2956">
+        <path id="Path_976" data-name="Path 976" d="M1517.307,234.312a5.963,5.963,0,0,1-5.947-5.667h-2.02v-.575h2.589v.288a5.379,5.379,0,0,0,10.757,0v-.288h2.588v.575h-2.019A5.963,5.963,0,0,1,1517.307,234.312Z" fill="#fff"/>
+      </g>
+      <path id="Path_977" data-name="Path 977" d="M1517.307,236.435a8.726,8.726,0,1,1,8.726-8.726A8.736,8.736,0,0,1,1517.307,236.435Zm0-17.307a8.581,8.581,0,1,0,8.582,8.581A8.591,8.591,0,0,0,1517.307,219.128Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

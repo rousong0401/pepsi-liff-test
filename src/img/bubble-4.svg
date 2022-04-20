@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="31" viewBox="0 0 23 31">
+  <defs>
+    <clipPath id="clip-bubble-2">
+      <rect width="23" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="bubble-2" clip-path="url(#clip-bubble-2)">
+    <g id="Group_3135" data-name="Group 3135" transform="translate(-2039.143 -216.668)">
+      <path id="Path_1018" data-name="Path 1018" d="M2057.534,225.6a4.466,4.466,0,1,1,4.466-4.466A4.472,4.472,0,0,1,2057.534,225.6Zm0-8.435a3.968,3.968,0,1,0,3.968,3.969A3.974,3.974,0,0,0,2057.534,217.166Z" fill="#fff"/>
+      <g id="Group_2989" data-name="Group 2989">
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="5.926" cy="5.926" r="5.926" transform="translate(2039.208 234.793)" fill="#fff"/>
+        <path id="Path_1019" data-name="Path 1019" d="M2045.134,246.71a5.991,5.991,0,1,1,5.99-5.991A6,6,0,0,1,2045.134,246.71Zm0-11.846a5.856,5.856,0,1,0,5.861,5.855A5.864,5.864,0,0,0,2045.134,234.864Z" fill="#101820"/>
+        <path id="Path_1020" data-name="Path 1020" d="M2050.119,237.489c.006.017.009.035.014.052a4.133,4.133,0,0,1-1.538,4.528c-1.791,1.318-4.4,1.322-8,2.454l-.018.005a5.94,5.94,0,0,0,9.544-7.039Z" fill="none"/>
+        <g id="Group_2988" data-name="Group 2988">
+          <path id="Path_1021" data-name="Path 1021" d="M2050.3,238.717a4.154,4.154,0,0,0-.172-1.176,5.959,5.959,0,0,0-1.441-1.558,12.331,12.331,0,0,1-8.323,8.256c.071.1.146.192.224.284,3.6-1.132,6.211-1.136,8-2.454A4.156,4.156,0,0,0,2050.3,238.717Z" fill="#101820"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
