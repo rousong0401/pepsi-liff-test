@@ -200,8 +200,15 @@
         <img src="./img/awards-1.svg" alt="獎品及人物圖片" class="absolute top-0 left-0 w-full mx-auto">
         <img src="./img/awards-2.png" alt="獎品及人物圖片" class="w-full mx-auto">
       </div>
+      <div class="relative" v-show="nowLoginWay === 'modernQRcode'">
+        <img src="./img/awards-1.svg" alt="獎品及人物圖片" class="absolute top-0 left-0 w-full mx-auto">
+        <img src="./img/awards-2-2x.png" alt="獎品及人物圖片" class="w-full mx-auto">
+      </div>
       <div class="relative" v-show="nowLoginWay === 'modernvehicle'">
         <img src="./img/bg-cola.png" alt="cola" class="w-full -mt-8">
+      </div>
+      <div class="relative" v-show="nowLoginWay === 'modernvehicle'">
+        <img src="./img/bg-cola-2x.png" alt="cola" class="w-full -mt-8">
       </div>
       <div class="modal duration-300" :class="{'opacity-0 invisible' : !modal,'opacity-1 visible' : modal}">
         <div class=" modal__main">
@@ -212,9 +219,6 @@
               </li>
               <li>
                 <p>請輸入手機號碼</p>
-              </li>
-              <li>
-                <p>請重新掃描 QRCode</p>
               </li>
             </ul>
           </div>
